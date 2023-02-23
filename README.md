@@ -3,7 +3,7 @@ Inteligência Computacional como Suporte à Tomada de Decisão no Gerenciamento 
 
 ## Resumo 
 Os serviços de computação em nuvem mudaram o estilo de vida das pessoas e o uso da computação em nuvem tem aumentado devido sua conveniência, possibilidade de redução de custos e grande variedade de aplicações integradas. Por outro lado, as empresas que fornecem este tipo de serviço tem a necessidade de atender a crescente demanda com alta qualidade de serviço e fazer o gerenciamento da capacidade alinhado ao estratégico de forma mais rápida e objetiva. A alternativa para auxiliar o gerenciamento é o uso da inteligência computacional e por isso o presente trabalho tem como objetivo propor e testar uma solução por meio de um sistema que faça a previsão do uso dos recursos do servidor e o método utilizado é o teste e a avaliação de modelos de regressão e previsão aplicados a um conjunto de dados sequenciais gerados artificialmente com base em uma pesquisa na literatura que identifica as características destes dados. Como resultados, uma rede neural sem realimentação produziu um modelo que tem ótimo ajuste aos dados teste do pico de uso diário de processador e conclui-se que os gerentes podem utilizar os dados de previsão de uso de processador como ferramenta na tomada de decisão do gerenciamento de capacidade.
-## Palavras-chave: 
+## Palavras-chave 
 gerenciamento da capacidade; computação em nuvem; inteligência computacional; tomada de decisão.
 
 ## Abstract
